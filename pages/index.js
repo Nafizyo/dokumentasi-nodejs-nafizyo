@@ -6,15 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Mihani 3R</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="Halaman Utama mihani.com" />
+        <p className="description">Laman web ini masih kosong buat masa ini.</p>
       </main>
 
       <Footer />
